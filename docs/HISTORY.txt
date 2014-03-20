@@ -1,18 +1,6 @@
 Changelog
 =========
 
-9.4-dev - (unreleased)
-----------------------
-* Change: Update document by line viewlet with more info about the authors and
-  contributors
-  [voineali]
-* Bug fix: Fixed Daviz chart image raw embed within PDF export
-  [voineali refs #18910]
-* Change: increased the size of the TinyMCE mceListBox
-  [ichimdav refs #18785]
-* Feature: documented not sortable table unde design elements
-  [ghicaale refs #18942]
-
 9.3 - (2014-03-10)
 ------------------
 * Bug fix: fixed length of the shows characters to 250 and added effectivedate
